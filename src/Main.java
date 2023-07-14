@@ -24,6 +24,7 @@ public class Main {
             System.out.println("==============");
             saleService.PayMethod(price, customer);
         }
+        System.out.println("==============");
 
     }
 }
